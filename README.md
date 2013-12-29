@@ -55,4 +55,4 @@ https://github.com/lchamon/RDATBX
 Author
 ------
 
-Chamon <luizchamon> <gmail>
+Chamon [luizchamon] [gmail]
