@@ -42,3 +42,17 @@ Evaluates the third-octave spectrum of the signal. Uses the multirate filtering 
 ### esweep
 
 Generates an exponential sine sweep that with in-phase harmonics that permits nonlinear identification of systems (using a power series model). Also returns the matched filter that can be used to recover the impulse response (IR).
+
+
+
+Issues
+------
+
+Issues/suggestions should be report via the GitHub repository:
+
+https://github.com/lchamon/RDATBX
+
+Author
+------
+
+Chamon <luizchamon> <gmail>
